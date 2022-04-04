@@ -18,3 +18,11 @@
     padding: 10px;
     margin-bottom: 20px;
 }
+
+.top-title h3 {
+    margin: 0;
+}
+
+.bottom-title h3 {
+    margin: 10px 0;
+}

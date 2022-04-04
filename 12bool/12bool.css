@@ -93,6 +93,7 @@
 
 .col-offset-2 {
     margin-left: calc(100% / 12 * 2);
+    max-width: calc(100% / 12 * 2);
 }
 
 .col-offset-3 {
