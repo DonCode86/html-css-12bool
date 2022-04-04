@@ -1,5 +1,9 @@
 [class*="col"] {
     background-color: #006cfa;
-    min-height: 20px;
+    min-height: 35px;
     border: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+    line-height: 35px;
 }
+
