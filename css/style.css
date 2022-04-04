@@ -9,11 +9,11 @@
 
 [class*="col"] [class*="col"] {
     background-color: #00e165;
-    padding: 5px;
-    margin: 5px;
+    margin: 2px;
 }
 
 [class*="nested"] {
     display: flex;
     flex-wrap: nowrap;
+    padding: 10px;
 }
