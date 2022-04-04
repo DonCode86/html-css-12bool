@@ -16,4 +16,5 @@
     display: flex;
     flex-wrap: nowrap;
     padding: 10px;
+    margin-bottom: 20px;
 }
