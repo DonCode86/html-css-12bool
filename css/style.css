@@ -2,7 +2,7 @@
     COMMONS
 ---------------*/
 
-[class*="col"] {
+[class*="col-xs"] {
     background-color: #006cfa;
     min-height: 35px;
     border: 1px solid #fff;
