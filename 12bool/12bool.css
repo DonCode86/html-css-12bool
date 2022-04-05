@@ -13,8 +13,8 @@
 ------------------*/
 
 .container {
-    max-width: 100%;
-    margin:0;
+    max-width: 1170px;
+    margin:0 auto;
 }
 
 .row {

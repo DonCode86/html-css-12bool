@@ -9,20 +9,13 @@
     color: #fff;
     text-align: center;
     line-height: 35px;
+    padding: 5px;
 }
 
-[class*="col"] [class*="col"] {
+.box-nested {
     background-color: #00e165;
-    margin: 2px;
+    border: 1px solid #006cfa;
 }
-
-[class*="nested"] {
-    display: flex;
-    flex-wrap: nowrap;
-    padding: 10px;
-    margin-bottom: 20px;
-}
-
 /*--------------
     TYPO
 ---------------*/
